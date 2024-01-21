@@ -1,0 +1,25 @@
+.alert-danger {
+  display: flex;
+  background-color: #f2dede;
+  color: #a94442;
+  border: none;
+  border-radius: 5px;
+  width: 400px;
+  height: 60px;
+  margin: 5px;
+  justify-content: center;
+  align-items: center;
+}
+
+.alert-success {
+  display: flex;
+  background-color: #dff0d8;
+  color: #3c763d;
+  border: none;
+  border-radius: 5px;
+  width: 400px;
+  height: 60px;
+  margin: 5px;
+  justify-content: center;
+  align-items: center;
+}
